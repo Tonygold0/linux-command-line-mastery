@@ -1,0 +1,8 @@
+Docker
+Git
+Docker
+Kubernetes
+Git
+Git
+Ansible
+Docker

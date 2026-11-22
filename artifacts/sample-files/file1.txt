@@ -1,0 +1,2 @@
+Linux is an open-source operating system.
+Linux supports automation and scripting.

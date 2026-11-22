@@ -1,0 +1,2 @@
+Bash scripting helps automate repetitive tasks.
+Docker and Kubernetes are important DevOps tools.
